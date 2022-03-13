@@ -1,0 +1,34 @@
+.spritecorel, .spriteai, .spriteapi, .spritebootstrap, .spritebulma, 
+.spritecss, .spritedjango, .spritedocker, .spritefirebase, .spritego, 
+.spritehtml, .spriteingles, .spritejs, .spritekubernetes, .spritemongodb, 
+.spritemysql, .spritenextjs, .spriteps, .spritereact, .spritetailwind
+{ max-width: 100%; background-size: 100%; background-image: url('../images/sprites-logos.jpg'); }
+ 
+.spritecorel { background-position: 0 0%; background-size: 100%; }
+.spriteai { background-position: 0 5.721462%; background-size: 100.5%; }
+.spriteapi { background-position: 0 11.326949%; background-size: 100.5%; }
+.spritebootstrap { background-position: 0 15.187431%; background-size: 100.5%; }
+.spritebulma { background-position: 0 20.754717%; background-size: 100.5%; }
+.spritecss { background-position: 0 29.814711%; background-size: 100.5%; }
+.spritedjango { background-position: 0 36.579841%; background-size: 100.5%; }
+.spritedocker { background-position: 0 42.265795%; background-size: 100.5%; }
+.spritefirebase { background-position: 0 46.599777%; background-size: 100.5%; }
+.spritego { background-position: 0 50.964412%; background-size: 100.5%; }
+.spritehtml { background-position: 0 55.783268%; background-size: 100.5%; }
+.spriteingles { background-position: 0 61.979312%; background-size: 100.5%; }
+.spritejs { background-position: 0 67.781494%; background-size: 100.5%; }
+.spritekubernetes { background-position: 0 73.467113%; background-size: 100.5%; }
+.spritemongodb { background-position: 0 79.152731%; background-size: 100.5%; }
+.spritemysql { background-position: 0 82.627579%; background-size: 100.5%; }
+.spritenextjs { background-position: 0 85.932388%; background-size: 100.5%; }
+.spriteps { background-position: 0 91.457286%; background-size: 100.5%; }
+.spritereact { background-position: 0 96.431535%; background-size: 100.5%; }
+.spritetailwind { background-position: 0 100%; background-size: 100.5%; }
+
+.spriteesmerilarte, .spritelabo, .spritemagn, .spritemesas
+{ max-width: 100%; background-size: 100%; background-image: url('../images/sprites-logos-projects.jpg'); }
+ 
+.spriteesmerilarte { background-position: 0 0%; background-size: 100%; }
+.spritelabo { background-position: 0 33.497537%; background-size: 100%; }
+.spritemagn { background-position: 0 66.666667%; background-size: 100%; }
+.spritemesas { background-position: 0 100%; background-size: 100%; }

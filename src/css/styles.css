@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
+@import url(menu.css);
+@import url(css-sprites.css);
+
+html{
+    scroll-behavior: smooth;
+   
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.text-bold{
+    font-weight: 600;
+}
+
+.text-primary{
+    color: #3739cc;
+}
+
+.border-primary{
+    border-color: #3739cc;
+}
+
+.bg-primary{
+    background-color: #3739cc;
+}
+
+.bg-pattern{
+    background-color: #ffffff;
+opacity: 0.9;
+background-image:  radial-gradient(#ebebeb 1.05px, transparent 1.05px), radial-gradient(#ebebeb 1.05px, #ffffff 1.05px);
+background-size: 42px 42px;
+background-position: 0 0,21px 21px;
+}
+
+.image{
+    background-image: url('../images/background-man.jpg');
+    background-attachment: fixed;
+    background-position: 40% 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.box{
+    border-radius: 16px;
+    background: #e0e0e0;
+    box-shadow:  12px 12px 35px #969696,
+            -12px -12px 35px #ffffff;
+}
+
+.btn-download{
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    transition: background-color 0.3s;
+}
+
+.btn-download:hover{
+    background-color: darkcyan;
+}
+
+.scale-hover{
+    transition: all .2s ease-in-out;
+}
+
+.scale-hover:hover{
+    transform: scale(1.5); 
+}
+
+.preloading{
+    z-index: 30;
+    height: 100vh;
+    width: 100%;
+    background-color: #08095e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
